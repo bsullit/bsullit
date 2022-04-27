@@ -2,9 +2,10 @@
 ### I'm currently working on a personal project exploring the possibilities of JS audio libaries
 ### if you'd like to reach me you can message me here or connect with me on LinkedIn
 ### here are some of my other recent projects :
-### -snowGlobal
-### -budgetDuck
-
+### -snowGlobal: http://snowglobal.herokuapp.com/
+e-commerce snowglobe selling platform
+### -budgetDuckhttp://budgetduck.herokuapp.com/
+budgeting app utilizing Plaid API and recharts library
 
 
 <!--
