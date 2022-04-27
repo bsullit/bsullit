@@ -4,7 +4,7 @@
 ### here are some of my other recent projects :
 ### -snowGlobal: http://snowglobal.herokuapp.com/
 e-commerce snowglobe selling platform
-### -budgetDuckhttp://budgetduck.herokuapp.com/
+### -budgetDuck: http://budgetduck.herokuapp.com/
 budgeting app utilizing Plaid API and recharts library
 
 
