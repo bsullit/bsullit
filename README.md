@@ -1,4 +1,4 @@
-### Hi, My name is Brian Sullivan and I am a Web developer
+### Hi, My name is Brian Sullivan and I am a full stack web developer
 ### I'm currently working on an e commerce MERN stack app
 ### if you'd like to reach me you can message me here or connect with me on LinkedIn
 ### here are some of my other recent projects :
