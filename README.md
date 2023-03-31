@@ -1,5 +1,5 @@
-### Hi, My name is Brian Sullivan and I am a Web developer!
-### I'm currently working on a personal project exploring the possibilities of JS audio libaries
+### Hi, My name is Brian Sullivan and I am a Web developer
+### I'm currently working on an e commerce MERN stack app
 ### if you'd like to reach me you can message me here or connect with me on LinkedIn
 ### here are some of my other recent projects :
 ### -snowGlobal: http://snowglobal.herokuapp.com/
