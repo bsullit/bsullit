@@ -1,5 +1,4 @@
 ### Hi, My name is Brian Sullivan and I am a full stack web developer
-### I'm currently working on a MERN stack e commerce app
 ### if you'd like to reach me you can message me here or connect with me on LinkedIn
 
 ### -budgetDuck: http://budgetduck.herokuapp.com/
